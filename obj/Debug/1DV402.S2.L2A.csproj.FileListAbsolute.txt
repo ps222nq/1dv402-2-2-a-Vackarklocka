@@ -1,0 +1,6 @@
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\bin\Debug\1DV402.S2.L2A.exe.config
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\bin\Debug\1DV402.S2.L2A.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\bin\Debug\1DV402.S2.L2A.pdb
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\obj\Debug\1DV402.S2.L2A.csprojResolveAssemblyReference.cache
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\obj\Debug\1DV402.S2.L2A.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\2-2-a-vackarklocka\1DV402.S2.L2A\1DV402.S2.L2A\obj\Debug\1DV402.S2.L2A.pdb
